@@ -1,7 +1,7 @@
 import { useState } from "react";
 import ChatInterface from "./components/ChatInterface";
 import OutputDisplay from "./components/OutputDisplay";
-import Popup from "./components/Popup";
+import Popup from "./components/popup";
 import "./App.css";
 
 const App = () => {
